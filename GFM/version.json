@@ -1,5 +1,5 @@
   {
-    "version": "1.1.5",
-    "download_url": "https://github.com/Underground-Mine-Modelling/Installers/releases/download/gfm-v1.1.5/UGMM.-.GFM.Installer.exe",
-    "release_notes": "Validación del plan de extracción antes de iniciar la simulación (errores bloqueantes y advertencias de códigos sin coincidencia) - Corrección de simulaciones con períodos de bajo tonelaje - Aceleración de escritura y lectura de archivos CSV con PyArrow (7.7x escritura, 10x lectura) - Verificación automática de actualizaciones al iniciar la aplicación"
+    "version": "1.1.6",
+    "download_url": "https://github.com/Underground-Mine-Modelling/Installers/releases/download/gfm-v1.1.6/UGMM.-.GFM.Installer.exe",
+    "release_notes": "Nueva ventana de visualización del layout de puntos de extracción"
   }
